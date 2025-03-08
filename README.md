@@ -24,7 +24,7 @@ To tackle this challenge, I will use either:
 * A regression-based model to quantify relationships between employee attributes and attrition likelihood.
 * A tree-based machine learning model for a more complex, non-linear prediction approach.
 
-#Business Impact
+# Business Impact
 
 This project will provide data-driven insights to help Salifort Motors' HR department implement targeted retention strategies. By identifying trends and risk factors in employee attrition, the company can make informed decisions to improve employee satisfaction and reduce turnover rates.
 
